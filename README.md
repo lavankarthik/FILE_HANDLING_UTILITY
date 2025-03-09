@@ -13,7 +13,7 @@ DURATION:4 WEEKS
 MENTOR:NEELA SANTOSH
 
 ##Description:
-This project demonstrates how to handle file operations in Java, including reading, writing, and modifying text files dynamically. The program allows users to input a file name, write content to it, read the content, and modify specific words inside the file. This is a fundamental application of Java I/O (Input/Output) operations and helps in understanding file manipulation using Java’s java.io and java.nio.file packages.Used EclipseIDE for executing the project this program is compatible with Java 8 and above, as it uses Files.readAllLines() and Files.write().
+This project demonstrates file handling operations in Java, focusing on reading, writing, and modifying text files dynamically. Using Java’s java.io and java.nio.file packages, the program allows users to create a file, write content into it, read the stored data, and modify specific words within the file. It is compatible with Java 8 and above, utilizing methods like Files.readAllLines() and Files.write(). The implementation involves user interaction through the Scanner class, enabling dynamic input and file manipulation. Additionally, try-catch blocks are used to handle potential IOExceptions, ensuring smooth execution. The structured approach includes file creation, writing, reading, and modification, making it a practical exercise for understanding Java I/O operations. This project was developed and executed in Eclipse IDE, providing an easy-to-debug environment. 
 
 #OUTPUT:
 
